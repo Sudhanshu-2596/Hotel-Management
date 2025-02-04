@@ -12,6 +12,18 @@ This **Hotel Management System** is a Python-based console application that help
 ✅ **Final Bill Generation** – Displays all expenses, including additional service charges, in a structured bill.  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### 🏨 Room Booking
+![Room Booking](screenshots/user_input.png)
+
+### 🧾 Final Bill
+![Final Bill](screenshots/hotel_bill.png)
+
+---
 
 ## 🚀 How to Run the Project
 
@@ -40,7 +52,7 @@ python HOTEL.PY
 ---
 
 ## 📌 Requirements
-✅ **Python 3.x**  
+✅ **Python 3.10**  
 ✅ No additional libraries required (uses built-in modules).  
 
 ---
